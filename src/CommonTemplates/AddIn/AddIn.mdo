@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:CommonTemplate xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="f27ae682-2d74-4b16-b87e-5b5da2a0f658">
+  <name>AddIn</name>
+  <synonym>
+    <key>ru</key>
+    <value>Add in</value>
+  </synonym>
+  <templateType>AddIn</templateType>
+</mdclass:CommonTemplate>

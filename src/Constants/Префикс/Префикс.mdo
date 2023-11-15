@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Constant xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="54523e81-493a-4a0d-8645-79b472e71d61">
+  <producedTypes>
+    <managerType typeId="71d73f48-393e-40eb-97b8-00f85e7b8325" valueTypeId="6cfdee04-d8ae-4731-a8d6-339909b0476d"/>
+    <valueManagerType typeId="ad0c14ce-b944-4f91-a3d7-bc5d5f2c62e4" valueTypeId="89ca5ed5-8edb-422b-acce-fd28aa72995e"/>
+    <valueKeyType typeId="6127d656-022c-4662-ab2f-c38007d35822" valueTypeId="becce822-655a-4525-bdff-981ca25d3913"/>
+  </producedTypes>
+  <name>Префикс</name>
+  <synonym>
+    <key>ru</key>
+    <value>Префикс</value>
+  </synonym>
+  <type>
+    <types>String</types>
+    <stringQualifiers>
+      <length>10</length>
+    </stringQualifiers>
+  </type>
+  <useStandardCommands>true</useStandardCommands>
+  <minValue xsi:type="core:UndefinedValue"/>
+  <maxValue xsi:type="core:UndefinedValue"/>
+  <dataLockControlMode>Managed</dataLockControlMode>
+</mdclass:Constant>
